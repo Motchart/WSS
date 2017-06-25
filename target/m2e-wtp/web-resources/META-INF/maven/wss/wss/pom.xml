@@ -28,7 +28,9 @@
     <version>2.2</version>
     <configuration>
     <url>http://localhost:8888/manager/text</url>
-	  <sevlet>myserver</sevlet>
+	  <!--  <sevlet>myserver</sevlet>-->
+	  <username>deployer</username>
+	  <password>deployer</password>
 	  <path>/wss</path>
     </configuration>
       </plugin>
