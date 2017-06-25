@@ -29,7 +29,7 @@
     <configuration>
     <url>http://localhost:8888/manager/text</url>
 	  <sevlet>myserver</sevlet>
-	  <path>/api</path>
+	  <path>/wss</path>
     </configuration>
       </plugin>
     </plugins>
